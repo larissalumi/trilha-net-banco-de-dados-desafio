@@ -1,3 +1,6 @@
+# Alterações Feitas
+Para esse desafio tive algumas limitações, pois não pude instalar o sql server, então eu utilizei um compilador online. Caso queira executar desse modo, em cima deve ser copiado o conteudo do arquivo Script Filmes.sql acima do arquivo
+
 # DIO - Trilha .NET - Banco de Dados
 www.dio.me
 
